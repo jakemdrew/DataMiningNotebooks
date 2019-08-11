@@ -6,7 +6,7 @@ Notebooks are numbered by the unit (i.e., week) at which they are covered in the
 
 To use the notebooks you can either download the repository as a zip file (top right corner) or you can use a git checkout via the command:
 ```
-git clone https://github.com/eclarson/DataMiningNotebooks.git
+git clone https://github.com/jakemdrew/DataMiningNotebooks.git
 ```
 
 This will install the entire git repository into a new directory and you can always update the directory via git. 
